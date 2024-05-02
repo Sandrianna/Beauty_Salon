@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="5955872b6a0e015cf61801aa9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5955872b6a0e015cf61801aa9.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5955872b6a0e015cf61801aa8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5955872b6a0e015cf61801aa8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1627014998_8-p-fon-dlya-yutuba-rozovii-84" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1627014998_8-p-fon-dlya-yutuba-rozovii-84.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1670014340_10-pibig-info-p-temno-rozovie-oboi-na-telefon-instagram-101" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1670014340_10-pibig-info-p-temno-rozovie-oboi-na-telefon-instagram-101.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1627009688_12-p-rozovii-fon-oboi-na-rabochii-stol-12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1627009688_12-p-rozovii-fon-oboi-na-rabochii-stol-12.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1663239656_b-12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1663239656_b-12.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="389bd4f206b256ee007a3bb31c2903e4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\389bd4f206b256ee007a3bb31c2903e4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5955872b6a0e015cf61801aa4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5955872b6a0e015cf61801aa4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5c3ad78aa1eee16845d9f5a72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5c3ad78aa1eee16845d9f5a72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1663239656_b-11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1663239656_b-11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1670014340_10-pibig-info-p-temno-rozovie-oboi-na-telefon-instagram-10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1670014340_10-pibig-info-p-temno-rozovie-oboi-na-telefon-instagram-10.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="473a89d931adcc373da03fd0307f70db-blues-640x6182" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\473a89d931adcc373da03fd0307f70db-blues-640x6182.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1627014998_8-p-fon-dlya-yutuba-rozovii-8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1627014998_8-p-fon-dlya-yutuba-rozovii-8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="7ec82f25a23d795c7640eefe5a603986" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7ec82f25a23d795c7640eefe5a603986.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1627014998_8-p-fon-dlya-yutuba-rozovii-81" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1627014998_8-p-fon-dlya-yutuba-rozovii-81.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="7ec82f25a23d795c7640eefe5a6039862" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7ec82f25a23d795c7640eefe5a6039862.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="480eee5efb28df12b75213daffb24729" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\480eee5efb28df12b75213daffb24729.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5955872b6a0e015cf61801aa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5955872b6a0e015cf61801aa.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5955872b6a0e015cf61801aa6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5955872b6a0e015cf61801aa6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="473a89d931adcc373da03fd0307f70db-blues-640x6183" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\473a89d931adcc373da03fd0307f70db-blues-640x6183.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1653390585_56-celes-club-p-myagko-rozovii-fon-krasivie-571" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1653390585_56-celes-club-p-myagko-rozovii-fon-krasivie-571.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wp.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="7ec82f25a23d795c7640eefe5a6039861" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7ec82f25a23d795c7640eefe5a6039861.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="473a89d931adcc373da03fd0307f70db-blues-640x6181" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\473a89d931adcc373da03fd0307f70db-blues-640x6181.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5955872b6a0e015cf61801aa5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5955872b6a0e015cf61801aa5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="473a89d931adcc373da03fd0307f70db-blues-640x618" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\473a89d931adcc373da03fd0307f70db-blues-640x618.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1653390585_56-celes-club-p-myagko-rozovii-fon-krasivie-572" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1653390585_56-celes-club-p-myagko-rozovii-fon-krasivie-572.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1677373923_bogatyr-club-p-rozovie-oboi-na-rabochii-stol-fon-vkontakt-2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1677373923_bogatyr-club-p-rozovie-oboi-na-rabochii-stol-fon-vkontakt-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="389bd4f206b256ee007a3bb31c2903e41" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\389bd4f206b256ee007a3bb31c2903e41.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3939aa1aa0d33d21fd7ab47897db6e4d" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3939aa1aa0d33d21fd7ab47897db6e4d.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5c3ad78aa1eee16845d9f5a7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5c3ad78aa1eee16845d9f5a7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1663239656_b-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1663239656_b-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Розовый-фон-и-обои-красивые-картинки-и-заставки-21-фото-61" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Розовый-фон-и-обои-красивые-картинки-и-заставки-21-фото-61.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="389bd4f206b256ee007a3bb31c2903e42" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\389bd4f206b256ee007a3bb31c2903e42.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1627014998_8-p-fon-dlya-yutuba-rozovii-82" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1627014998_8-p-fon-dlya-yutuba-rozovii-82.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="167bcae59cb8225cc85395b276bd570c" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\167bcae59cb8225cc85395b276bd570c.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1673573485_flomaster-club-p-kot-za-kompyuterom-risunok-oboi-22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1673573485_flomaster-club-p-kot-za-kompyuterom-risunok-oboi-22.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5955872b6a0e015cf61801aa1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5955872b6a0e015cf61801aa1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1627014998_8-p-fon-dlya-yutuba-rozovii-85" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1627014998_8-p-fon-dlya-yutuba-rozovii-85.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5955872b6a0e015cf61801aa7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5955872b6a0e015cf61801aa7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5c3ad78aa1eee16845d9f5a71" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5c3ad78aa1eee16845d9f5a71.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1627014998_8-p-fon-dlya-yutuba-rozovii-83" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1627014998_8-p-fon-dlya-yutuba-rozovii-83.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5955872b6a0e015cf61801aa2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5955872b6a0e015cf61801aa2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5955872b6a0e015cf61801aa10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5955872b6a0e015cf61801aa10.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1639789403_1-catherineasquithgallery-com-p-rozovii-fon-nezhnii-gorizontalnii-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1639789403_1-catherineasquithgallery-com-p-rozovii-fon-nezhnii-gorizontalnii-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Розовый-фон-и-обои-красивые-картинки-и-заставки-21-фото-6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Розовый-фон-и-обои-красивые-картинки-и-заставки-21-фото-6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5955872b6a0e015cf61801aa3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5955872b6a0e015cf61801aa3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1653390585_56-celes-club-p-myagko-rozovii-fon-krasivie-57" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1653390585_56-celes-club-p-myagko-rozovii-fon-krasivie-57.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5955872b6a0e015cf61801aa10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5955872b6a0e015cf61801aa11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
